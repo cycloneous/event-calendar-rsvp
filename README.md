@@ -1,1 +1,1 @@
-# wp-event-calendar-rsvp
+# event-calendar-rsvp
